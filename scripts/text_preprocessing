@@ -1,0 +1,230 @@
+# File: scripts/text_preprocessing.py
+"""
+Text preprocessing utilities for NLP analysis.
+
+This module provides functions for cleaning and preprocessing unstructured text data
+for sentiment analysis and topic modeling.
+"""
+
+import pandas as pd
+import string
+import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+
+# Download required NLTK data
+def _download_nltk_data():
+    """Download required NLTK datasets if not already present."""
+    try:
+        nltk.download('stopwords', quiet=True)
+        nltk.download('wordnet', quiet=True)  
+        nltk.download('omw-1.4', quiet=True)
+    except Exception as e:
+        print(f"Warning: Could not download NLTK data: {e}")
+
+# Download on import
+_download_nltk_data()
+
+def clean_text(text, return_tokens=False, min_word_length=2, language='english'):
+    """
+    Clean a single text string for NLP analysis.
+    
+    Parameters:
+    -----------
+    text : str
+        Input text string to clean
+    return_tokens : bool, default False
+        If True, returns list of tokens; if False, returns cleaned text string
+    min_word_length : int, default 2
+        Minimum word length to keep
+    language : str, default 'english'
+        Language for stopwords
+    
+    Returns:
+    --------
+    str or list
+        Cleaned text string or list of tokens
+        
+    Examples:
+    ---------
+    >>> clean_text("Great service! Very happy with the experience.")
+    'great service happy experience'
+    
+    >>> clean_text("Great service! Very happy.", return_tokens=True)
+    ['great', 'service', 'happy']
+    """
+    # Initialize components
+    try:
+        stop_words = set(stopwords.words(language))
+        lemmatizer = WordNetLemmatizer()
+    except LookupError:
+        print(f"Warning: NLTK data not found for language '{language}'. Using basic preprocessing.")
+        stop_words = set()
+        lemmatizer = None
+    
+    # Handle missing/empty text
+    if pd.isna(text) or not str(text).strip():
+        return [] if return_tokens else ''
+    
+    # Convert to string and lowercase
+    text = str(text).lower()
+    
+    # Remove punctuation and normalize whitespace
+    text = re.sub(r'[^\w\s]', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    
+    # Tokenize, filter stopwords and short words
+    tokens = [word for word in text.split() 
+              if word not in stop_words and len(word) >= min_word_length]
+    
+    # Lemmatize tokens if available
+    if lemmatizer:
+        tokens = [lemmatizer.lemmatize(word) for word in tokens]
+    
+    return tokens if return_tokens else ' '.join(tokens)
+
+def clean_text_series(series, return_tokens=False, min_word_length=2, language='english'):
+    """
+    Apply text cleaning to a pandas Series.
+    
+    Parameters:
+    -----------
+    series : pandas.Series
+        Series containing text data
+    return_tokens : bool, default False
+        If True, returns list of tokens; if False, returns cleaned text string
+    min_word_length : int, default 2
+        Minimum word length to keep
+    language : str, default 'english'
+        Language for stopwords
+    
+    Returns:
+    --------
+    pandas.Series
+        Series with cleaned text
+        
+    Examples:
+    ---------
+    >>> df['comments_clean'] = clean_text_series(df['customer_feedback'])
+    >>> df['review_tokens'] = clean_text_series(df['reviews'], return_tokens=True)
+    """
+    return series.apply(lambda x: clean_text(x, return_tokens, min_word_length, language))
+
+def add_cleaned_text_columns(df, text_columns, suffix='_clean', 
+                           min_word_length=2, language='english', 
+                           add_tokens=True, add_word_count=True):
+    """
+    Add cleaned text columns to dataframe for multiple text columns.
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        Input dataframe
+    text_columns : str or list
+        Column name(s) containing text to clean
+    suffix : str, default '_clean'
+        Suffix for cleaned text columns
+    min_word_length : int, default 2
+        Minimum word length to keep
+    language : str, default 'english'
+        Language for stopwords
+    add_tokens : bool, default True
+        Whether to add tokenized version
+    add_word_count : bool, default True
+        Whether to add word count column
+        
+    Returns:
+    --------
+    pandas.DataFrame
+        Dataframe with additional cleaned text columns
+        
+    Examples:
+    ---------
+    >>> df_clean = add_cleaned_text_columns(
+    ...     df, 
+    ...     text_columns=['LTR_COMMENT', 'feedback'],
+    ...     suffix='_processed'
+    ... )
+    """
+    df_result = df.copy()
+    
+    # Ensure text_columns is a list
+    if isinstance(text_columns, str):
+        text_columns = [text_columns]
+    
+    for col in text_columns:
+        if col not in df.columns:
+            print(f"Warning: Column '{col}' not found in dataframe")
+            continue
+            
+        # Add cleaned text column
+        clean_col = f"{col}{suffix}"
+        df_result[clean_col] = clean_text_series(
+            df[col], return_tokens=False, 
+            min_word_length=min_word_length, language=language
+        )
+        
+        # Add tokenized version
+        if add_tokens:
+            tokens_col = f"{col}_tokens"
+            df_result[tokens_col] = clean_text_series(
+                df[col], return_tokens=True,
+                min_word_length=min_word_length, language=language
+            )
+        
+        # Add word count
+        if add_word_count:
+            count_col = f"{col}_word_count"
+            df_result[count_col] = df_result[clean_col].str.split().str.len().fillna(0)
+    
+    return df_result
+
+def preprocess_text_for_modeling(df, text_columns, min_word_length=2, 
+                                language='english', filter_empty=True):
+    """
+    Complete preprocessing pipeline for text modeling.
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        Input dataframe
+    text_columns : str or list
+        Column name(s) containing text to clean
+    min_word_length : int, default 2
+        Minimum word length to keep
+    language : str, default 'english'
+        Language for stopwords
+    filter_empty : bool, default True
+        Whether to add flag for non-empty text
+        
+    Returns:
+    --------
+    pandas.DataFrame
+        Preprocessed dataframe ready for modeling
+        
+    Examples:
+    ---------
+    >>> df_ready = preprocess_text_for_modeling(
+    ...     df, 
+    ...     text_columns=['LTR_COMMENT', 'survey_feedback']
+    ... )
+    """
+    # Clean text
+    df_clean = add_cleaned_text_columns(
+        df, text_columns, min_word_length=min_word_length, 
+        language=language, add_tokens=True, add_word_count=True
+    )
+    
+    # Add flags for non-empty text
+    if filter_empty:
+        if isinstance(text_columns, str):
+            text_columns = [text_columns]
+        
+        for col in text_columns:
+            clean_col = f"{col}_clean"
+            flag_col = f"has_{col}"
+            if clean_col in df_clean.columns:
+                df_clean[flag_col] = (df_clean[clean_col].str.len() > 0)
+    
+    return df_clean
