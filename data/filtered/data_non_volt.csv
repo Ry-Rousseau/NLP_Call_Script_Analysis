@@ -1,18 +1,4 @@
 GROUP,VOLT_FLAG,SURVEY_ID,SCORE,LTR_COMMENT,PRIMARY_REASON,MONTH,CONNECTION_TIME,SALES_PERSON_SAT,SALES_FRIENDLY_SAT,COMMINICATION_SAT,FIRST_BILL_SAT,AGENT_KNOWLEDGE,VOLT_FLAG_BINARY,TREATMENT_BINARY
-control,,351124494,10,"Conservations with your staff over the phone were quick, clear, and very helpful, arranging for installation sooner than I expected. The installer was a lovely guy, very efficient and cleaned up what little debris the drilling caused.","Customer Service,Installation,Processes/Journeys,Technician",2023-02-01,10,10,10,10,10,10,0,0
-control,,351119086,10,They was on time. Done a good job. Was very polite.,Customer Service,2023-02-01,10,9,5,10,10,10,0,0
-control,,351178825,10,Friendly helpfull staff,"Customer Service,General,UK Legacy",2023-02-01,9,10,10,10,10,9,0,0
-control,,351164770,7,,,2023-02-01,8,10,6,8,9,3,0,0
-control,,351782490,10,"She was so helpful from start to finish and couldn¬""t have been any more accommodating to listen to what I wanted and honour the wonderful deal I had found to make sure I was as completely satisfied.","Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,0
-control,,351249267,10,The people I spoke to on the phone were more than helpful in an awful situation as I lost my brother and sorting it out for my dad amazing,,2023-02-01,10,10,10,10,10,10,0,0
-control,,351252624,10,"I had just moved into the property, and my previous supplier, said it would be difficult to reconnect the internet there, as someone had cut the cables. Having had a lot of problems and getting nowhere, I decided to switch suppliers. Your engineer that came to my property was so polite and reassuring that it could be reconnected, and it was. So after no internet for nearly a month, I am up and running. I can't thank the engineer enough. What I was told was impossible to fix, has now been rectified. Such polite service. Thank you","General,Reliability GeneralCustomer Service,Customer Service,General Services,Technician",2023-02-01,10,10,10,8,10,10,0,0
-control,,351777074,10,She answered all my questions,,2023-02-01,10,10,10,10,10,10,0,0
-control,,351283609,0,No time management,,2023-02-01,,,,,,,0,0
-control,,351325791,10,Customer service and staff are very polite and friendly.,Customer Service,2023-02-01,10,9,8,10,10,10,0,0
-control,,351700465,2,"The customer service I received was really poor. I purchased a broadband deal. However the female customer service advisor was not very helpful or friendly. I found her rude and abrupt. I told her I had been referred by a friend, an I had a referral code. She told me she would take those details at the end of the call. As she finished reading the terms and conditions of my contract, she cut the call!. Shortly after I received emails about my contract, stating what I had purchased. She didn't attempt to recall me. I tried calling back to confirm everything had gone through as I was still unsure about what had just happens, I also had further questions to ask. When I tried to call back I was just bounced between department to department, advisor to advisor!","Customer Service,General,UK Legacy",2023-02-01,0,5,5,1,0,5,0,0
-control,,351976679,9,,,2023-02-01,10,,10,10,10,9,0,0
-control,,351640933,10,"engineer was excellent, highly recommended!",Technician,2023-02-01,10,10,10,10,10,10,0,0
-control,,352256741,8,,,2023-02-01,10,8,,10,9,9,0,0
 control,,352240580,10,Good package,,2023-03-01,10,10,8,10,10,10,0,0
 control,,351702901,10,Great communication,"Customer Service,General,UK Legacy",2023-03-01,9,10,10,10,10,10,0,0
 control,,351663800,9,,,2023-03-01,10,7,10,9,10,8,0,0
@@ -190,19 +176,6 @@ control,,360711840,0,I cant get my box to work,"TV,UK Legacy",2023-06-01,10,0,10
 control,,360879207,10,Very helpful and efficient service and competitive broadband TV package,"Customer Service,General,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
 control,,361233556,10,"Very good customer service from Agent and she found us a really good deal, a lot better than we was getting from sky","Brand,Customer Service,General,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
 control,,361238644,10,The reson is your one emplyee Rosie She helped me by going extra mile over the phone this ranking is only for that lady as for you online sale department their performance is not good,Sales,2023-06-01,10,7,10,10,10,8,0,0
-pilot,,351106184,10,Very helpful,,2023-02-01,10,10,10,10,10,10,0,1
-pilot,,351657780,10,Excellent customer service very helpful and informative making my decision to join very easy,"Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
-pilot,,351252622,10,"Lee who came to install my port for the hun was a fantastic help. Purely on him coming to fix any issues I had and set up the hub I¬""d recommend. Call centre help was poor, but Lee was amazing.","Deepdive,General,Internet,Reliability GeneralCustomer Service,Customer Service,Equipment,Internet Service,UK Legacy",2023-02-01,4,6,3,4,4,6,0,1
-pilot,,351795919,10,Explained everything perfectly and found the right package for us,"Deepdive,Internet,Internet Service,Reliability GeneralUK Legacy",2023-02-01,10,9,10,10,10,10,0,1
-pilot,,351804610,9,"Short, simple, precise.",,2023-02-01,9,9,9,9,9,9,0,1
-pilot,,351307698,8,Been helpful and patient,,2023-02-01,10,10,10,10,10,7,0,1
-pilot,,351228495,4,The main sales team and service I'd give a 10 they were brilliant but when u put me through to the installation team it all went wrong I couldn't understand them and they couldn't help at all I tried 3 different members of the team all the same lucky I managed to get back to sales team and again they were brilliant and managed to sort the issue out. I was very close to cancelling because of them though,Sales,2023-02-01,10,5,8,10,10,10,0,1
-pilot,,351879110,2,"The sales person was very pushy, tryed to sell far bigger package than needed..then tried to sell another package I didn't need... I still haven't received my product and the email shows the wrong package...","Deepdive,Internet,Internet Service,UK Legacy,Sales",2023-02-01,0,0,5,2,6,0,0,1
-pilot,,351927230,9,,,2023-02-01,10,,10,10,10,10,0,1
-pilot,,351954246,10,"The sales person, Adam, was most patient and helpful with processing the order.","Customer Service,General,Processes/Journeys,Sales,UK Legacy",2023-02-01,10,5,10,10,,,0,1
-pilot,,351954904,0,I was given the wrong cord and I called but no one reponded with any solution. I am urgently in need of broadband and company media failed to deliver what was promised. I am grossly disappointed,"Deepdive,Internet,Internet Service,UK Legacy",2023-02-01,3,0,4,3,4,3,0,1
-pilot,,351433189,10,"I've only had company media for a few days now, and I'm really happy with the service . Everyone has been very helpful and supportive.",,2023-02-01,,,,,10,,0,1
-pilot,,352247356,10,Great customer service.,"Sales,Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
 pilot,,352217961,9,,,2023-03-01,10,8,10,9,9,9,0,1
 pilot,,351710544,7,,,2023-03-01,7,7,7,7,7,8,0,1
 pilot,,351741477,10,,,2023-03-01,9,7,5,9,10,7,0,1

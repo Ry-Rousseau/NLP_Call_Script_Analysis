@@ -1,24 +1,4 @@
 GROUP,VOLT_FLAG,SURVEY_ID,SCORE,LTR_COMMENT,PRIMARY_REASON,MONTH,CONNECTION_TIME,SALES_PERSON_SAT,SALES_FRIENDLY_SAT,COMMINICATION_SAT,FIRST_BILL_SAT,AGENT_KNOWLEDGE,VOLT_FLAG_BINARY,TREATMENT_BINARY
-pilot,,351106184,10,Very helpful,,2023-02-01,10,10,10,10,10,10,0,1
-pilot,,351657780,10,Excellent customer service very helpful and informative making my decision to join very easy,"Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
-pilot,yes,351677562,1,New kit came and doesn't work as we have no company wall socket. Git an engineer coming out in 2 days but we were never asked about the company socket at the time of purchase,"Customer Service,Technician",2023-02-01,6,1,8,5,8,8,1,1
-pilot,,351252622,10,"Lee who came to install my port for the hun was a fantastic help. Purely on him coming to fix any issues I had and set up the hub I¬""d recommend. Call centre help was poor, but Lee was amazing.","Deepdive,General,Internet,Reliability GeneralCustomer Service,Customer Service,Equipment,Internet Service,UK Legacy",2023-02-01,4,6,3,4,4,6,0,1
-pilot,yes,351707543,0,"Very pathetic after sale service. The person who created my account said she'll get back to me after for a delivery date of the router if it can be delivered on 1march. After that no calls, nothing whatsoever. No mechanism to raise complaint or any contact number.","Alert,Delivery and Installation,Equipment,General,Internet,Internet Service,UK Legacy",2023-02-01,1,2,8,5,2,10,1,1
-pilot,,351795919,10,Explained everything perfectly and found the right package for us,"Deepdive,Internet,Internet Service,Reliability GeneralUK Legacy",2023-02-01,10,9,10,10,10,10,0,1
-pilot,yes,351314735,8,,,2023-02-01,9,8,8,9,9,8,1,1
-pilot,,351804610,9,"Short, simple, precise.",,2023-02-01,9,9,9,9,9,9,0,1
-pilot,yes,351801482,10,"Had issues with another company.waited week after week that then turned into three months, and Olson my daughter lossing a chance of working remote from home so she could keep an eye on me as I had a stroke","General Service,TV,TV/Video",2023-02-01,10,,,10,10,9,1,1
-pilot,,351307698,8,Been helpful and patient,,2023-02-01,10,10,10,10,10,7,0,1
-pilot,yes,351782869,9,helpful friendly staff who are patient and give you the time and understanding to process and alleviate any doubts you may have,"Customer Service,General,UK Legacy",2023-02-01,9,8,9,9,10,8,1,1
-pilot,,351228495,4,The main sales team and service I'd give a 10 they were brilliant but when u put me through to the installation team it all went wrong I couldn't understand them and they couldn't help at all I tried 3 different members of the team all the same lucky I managed to get back to sales team and again they were brilliant and managed to sort the issue out. I was very close to cancelling because of them though,Sales,2023-02-01,10,5,8,10,10,10,0,1
-pilot,,351879110,2,"The sales person was very pushy, tryed to sell far bigger package than needed..then tried to sell another package I didn't need... I still haven't received my product and the email shows the wrong package...","Deepdive,Internet,Internet Service,UK Legacy,Sales",2023-02-01,0,0,5,2,6,0,0,1
-pilot,,351927230,9,,,2023-02-01,10,,10,10,10,10,0,1
-pilot,,351954246,10,"The sales person, Adam, was most patient and helpful with processing the order.","Customer Service,General,Processes/Journeys,Sales,UK Legacy",2023-02-01,10,5,10,10,,,0,1
-pilot,yes,351891557,9,,,2023-02-01,8,9,9,9,9,7,1,1
-pilot,,351954904,0,I was given the wrong cord and I called but no one reponded with any solution. I am urgently in need of broadband and company media failed to deliver what was promised. I am grossly disappointed,"Deepdive,Internet,Internet Service,UK Legacy",2023-02-01,3,0,4,3,4,3,0,1
-pilot,,351433189,10,"I've only had company media for a few days now, and I'm really happy with the service . Everyone has been very helpful and supportive.",,2023-02-01,,,,,10,,0,1
-pilot,yes,352241203,5,"Just signed up, so can't comment at the moment",,2023-02-01,,,,,,7,1,1
-pilot,,352247356,10,Great customer service.,"Sales,Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
 pilot,yes,352299145,10,,"Customer Service,General,UK Legacy",2023-03-01,10,,10,10,10,10,1,1
 pilot,yes,351717614,8,,,2023-03-01,8,8,8,8,8,7,1,1
 pilot,,352217961,9,,,2023-03-01,10,8,10,9,9,9,0,1
