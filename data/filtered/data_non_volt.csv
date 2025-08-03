@@ -1,0 +1,369 @@
+GROUP,VOLT_FLAG,SURVEY_ID,SCORE,LTR_COMMENT,PRIMARY_REASON,MONTH,CONNECTION_TIME,SALES_PERSON_SAT,SALES_FRIENDLY_SAT,COMMINICATION_SAT,FIRST_BILL_SAT,AGENT_KNOWLEDGE,VOLT_FLAG_BINARY,TREATMENT_BINARY
+control,,351124494,10,"Conservations with your staff over the phone were quick, clear, and very helpful, arranging for installation sooner than I expected. The installer was a lovely guy, very efficient and cleaned up what little debris the drilling caused.","Customer Service,Installation,Processes/Journeys,Technician",2023-02-01,10,10,10,10,10,10,0,0
+control,,351119086,10,They was on time. Done a good job. Was very polite.,Customer Service,2023-02-01,10,9,5,10,10,10,0,0
+control,,351178825,10,Friendly helpfull staff,"Customer Service,General,UK Legacy",2023-02-01,9,10,10,10,10,9,0,0
+control,,351164770,7,,,2023-02-01,8,10,6,8,9,3,0,0
+control,,351782490,10,"She was so helpful from start to finish and couldn¬""t have been any more accommodating to listen to what I wanted and honour the wonderful deal I had found to make sure I was as completely satisfied.","Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,0
+control,,351249267,10,The people I spoke to on the phone were more than helpful in an awful situation as I lost my brother and sorting it out for my dad amazing,,2023-02-01,10,10,10,10,10,10,0,0
+control,,351252624,10,"I had just moved into the property, and my previous supplier, said it would be difficult to reconnect the internet there, as someone had cut the cables. Having had a lot of problems and getting nowhere, I decided to switch suppliers. Your engineer that came to my property was so polite and reassuring that it could be reconnected, and it was. So after no internet for nearly a month, I am up and running. I can't thank the engineer enough. What I was told was impossible to fix, has now been rectified. Such polite service. Thank you","General,Reliability GeneralCustomer Service,Customer Service,General Services,Technician",2023-02-01,10,10,10,8,10,10,0,0
+control,,351777074,10,She answered all my questions,,2023-02-01,10,10,10,10,10,10,0,0
+control,,351283609,0,No time management,,2023-02-01,,,,,,,0,0
+control,,351325791,10,Customer service and staff are very polite and friendly.,Customer Service,2023-02-01,10,9,8,10,10,10,0,0
+control,,351700465,2,"The customer service I received was really poor. I purchased a broadband deal. However the female customer service advisor was not very helpful or friendly. I found her rude and abrupt. I told her I had been referred by a friend, an I had a referral code. She told me she would take those details at the end of the call. As she finished reading the terms and conditions of my contract, she cut the call!. Shortly after I received emails about my contract, stating what I had purchased. She didn't attempt to recall me. I tried calling back to confirm everything had gone through as I was still unsure about what had just happens, I also had further questions to ask. When I tried to call back I was just bounced between department to department, advisor to advisor!","Customer Service,General,UK Legacy",2023-02-01,0,5,5,1,0,5,0,0
+control,,351976679,9,,,2023-02-01,10,,10,10,10,9,0,0
+control,,351640933,10,"engineer was excellent, highly recommended!",Technician,2023-02-01,10,10,10,10,10,10,0,0
+control,,352256741,8,,,2023-02-01,10,8,,10,9,9,0,0
+control,,352240580,10,Good package,,2023-03-01,10,10,8,10,10,10,0,0
+control,,351702901,10,Great communication,"Customer Service,General,UK Legacy",2023-03-01,9,10,10,10,10,10,0,0
+control,,351663800,9,,,2023-03-01,10,7,10,9,10,8,0,0
+control,,351734954,10,Amazing service and job completed,"Customer Service,General,UK Legacy",2023-03-01,10,10,10,10,10,10,0,0
+control,,352314436,10,Goo service,General,2023-03-01,10,10,10,10,10,10,0,0
+control,,351806159,10,"The guy I spoke to was very helpful, give me a fantastic deal, and I'm looking forward to receiving my box .. the only downfall is the waiting time of just over two weeks but I'm sure it will be worth the wait.","General,Pricing,TV,TV/Video,UK Legacy",2023-03-01,10,5,10,10,10,10,0,0
+control,,352411785,9,good but it is early days yet,,2023-03-01,10,0,10,10,10,8,0,0
+control,,352568431,10,,,2023-03-01,10,6,8,10,10,7,0,0
+control,,352538390,10,,,2023-03-01,10,10,10,10,10,9,0,0
+control,,352004478,8,On the phone was a helpful fella all my questions and got me up and running in very little time and better internet around my area,"Customer Service,Sales,UK Legacy,Deepdive",2023-03-01,9,9,8,9,10,7,0,0
+control,,352216698,10,Hood customer service,,2023-03-01,10,10,10,10,10,10,0,0
+control,,352250385,10,"We have not been set up yet, but speaking to Ashley very informative and pleasant. On Saturday the chaps came a day did the road to house infrastructure, which was satisfactory. Today site management checked everything was installed satisfactory and we're we happy.","Customer Service,Sales,Technician",2023-03-01,10,10,10,10,10,10,0,0
+control,,351741926,10,,,2023-03-01,2,10,2,2,2,10,0,0
+control,,352865924,5,,,2023-03-01,3,10,2,3,3,5,0,0
+control,,352880898,10,They were friendly and easy to talk to. They understood what I wanted and happy to help.,,2023-03-01,9,9,8,9,9,9,0,0
+control,,352004288,1,"Higher speed than SKY.but connection disappointed.We have connected 3x TV,1 tablet ,3 mobile phones via WIFI but rubbish signal.Restarted router,lights are ok, WiFi poor.no good.Engineer was helpfull done his work correctly no complaint.","Mobile,Mobile Service,Reliability GeneralAlert,Equipment,General,Internet,Internet Service,Reliability GeneralUK Legacy,UK Legacy",2023-03-01,9,5,10,9,9,1,0,0
+control,,352444022,0,"Very difficult to talk to anyone, very expensive, always an IT problem, too many calls, lots of mistakes took place with my name, dates leaving or moving in, misleading advertising in such that it appears cheaper than what it actually costs. Sorry if that is too negative, however this is an accurate reflection of company. You do however have fast and mostly reliable internet","Deepdive,General,Internet,Internet Service,Pricing,Reliability GeneralUK Legacy,UK Legacy",2023-03-01,0,4,10,1,7,7,0,0
+control,,353070715,7,It was explained so I could understand what was being said to me thank u to the lady I spoke to,,2023-03-01,10,10,10,10,10,10,0,0
+control,,353080849,9,Friendly and efficient help,,2023-03-01,8,9,8,8,8,9,0,0
+control,,352927079,9,,,2023-03-01,10,8,10,8,10,9,0,0
+control,,353252523,7,"Polite. Could have be more skilled in providing guidance, eg: What is the minimum amount of broadband mbps working from home and video conferencing requires, instead of pretending to know.","Customer Service,Deepdive,Test",2023-03-01,8,8,8,7,8,8,0,0
+control,,353234948,10,I was impressed with company but decided to stay with sky,"Customer Service,Technician,Brand,UK Legacy",2023-03-01,10,0,0,10,10,10,0,0
+control,,353247075,9,The customer service for a new customer was excellent.,"Customer Service,General,Pricing,UK Legacy",2023-03-01,9,9,9,9,9,9,0,0
+control,,353525697,9,Helpful advisor,"Customer Service,General,UK Legacy",2023-03-01,9,7,9,9,9,8,0,0
+control,,353592969,10,"The chap who dealt with me was friendly, professional and efficient. All my questions were answered promptly and I feel reassured that I will get good service in future.","Customer Service,General,Technician",2023-03-01,10,,10,10,10,10,0,0
+control,,352893991,0,Very bad,,2023-03-01,0,0,0,0,0,0,0,0
+control,,353580490,10,Excellent on line service,"Customer Service,General",2023-03-01,10,10,10,10,10,10,0,0
+control,,353627863,4,Was promised a call back to change direct debit details but no call received,Billing,2023-03-01,5,8,0,5,5,8,0,0
+control,,353618570,10,,,2023-03-01,10,10,10,10,10,10,0,0
+control,,353729853,10,Great service good price,"General,Pricing,UK Legacy",2023-03-01,10,10,10,10,10,10,0,0
+control,,353733071,10,Simple process with very helpful staff.,"Customer Service,General,UK Legacy",2023-03-01,10,8,10,10,10,9,0,0
+control,,352933667,10,,,2023-03-01,10,10,8,10,10,10,0,0
+control,,353189538,0,,,2023-03-01,0,3,8,0,10,0,0,0
+control,,353911689,9,,,2023-03-01,9,8,,9,9,9,0,0
+control,,353324522,0,There was zero success support to get the service activated .it is almost 2 days without data and don't how many days more to go,,2023-03-01,0,0,5,0,3,0,0,0
+control,,353163458,10,,,2023-03-01,6,7,8,6,6,6,0,0
+control,,354149583,3,Confirmation procedure is strange Robot detection is pathetic Minute pictures American dialect! I am 77 and failing consistently to pass this fantastic test,,2023-03-01,8,8,8,8,8,8,0,0
+control,,353938017,8,"i am a new customer and my contract was cancelled without notifying me, only because box did not arrive that i called to see what was happening. had to wait another 3 days for box to arrive.",Contract,2023-03-01,10,5,10,10,10,4,0,0
+control,,354251357,8,Just felt treated better than with sky,Brand,2023-03-01,8,8,8,8,8,8,0,0
+control,,354213040,8,good customer service,"Customer Service,General,UK Legacy",2023-03-01,7,6,8,8,,8,0,0
+control,,353666457,10,"Polite, efficient installation thank you. Everything I would expect from company.",General,2023-03-01,10,10,10,10,10,10,0,0
+control,,353621037,8,Engineers helpful with someone not familiar with technology,"Customer Service,Technician",2023-03-01,8,8,6,9,,8,0,0
+control,,353808557,10,,,2023-03-01,10,10,10,10,10,10,0,0
+control,,354384837,9,,,2023-03-01,9,9,9,9,9,9,0,0
+control,,354479027,9,Happy with the price but yet to experience services,"General,Pricing",2023-03-01,10,5,10,10,10,10,0,0
+control,,354393939,7,Good service from engineer time will tell over standard of products,Technician,2023-03-01,10,10,10,10,10,10,0,0
+control,,354261239,3,"I have been blitzed with over 12 calls from company media in a week. When I ring back; one time my account could not be found. Each time I call, nobody can find a log of who called or the reason for my call. I¬""m not impressed. If it continues I will possibly cancel my order. Enough is enough",,2023-03-01,3,4,0,3,5,3,0,0
+control,,354184498,10,"Very professional, very kind and great customer service from the engineer","Customer Service,Technician",2023-03-01,8,8,8,8,8,8,0,0
+control,,354176974,10,The engineer who came for the installation was phenomenal.,Technician,2023-03-01,10,10,10,10,10,10,0,0
+control,,354235566,10,I phone company media on behalf of my cousin. He got broadband only. company media were very quick sending the box. We could not get it connected and company media sent an engineer the next day. Thank you company media.,"Brand,UK Legacy,Mobile Service,TV",2023-03-01,10,10,10,10,10,10,0,0
+control,,354235466,3,I was offered a package by Gem including Netflix that I accepted over the phone. When the email came through there was no Netflix. Despite repeated phone calls to company I was told it could not be added. And texts to Gem's mobile number went unanswered. I had already given notice to Sky so am stuck with you with the installation tomorrow. Terrible service.,"Customer Service,General,UK Legacy,Brand,TV,TV/Video",2023-03-01,0,5,5,0,5,1,0,0
+control,,354242895,8,"Polite, knowledgeable call staff. Explained everything really .",Customer Service,2023-03-01,10,5,9,10,10,9,0,0
+control,,354436214,10,,,2023-04-01,10,10,10,10,10,10,0,0
+control,,354385221,6,,,2023-04-01,6,5,5,6,6,5,0,0
+control,,354459118,9,The process was pretty easy,,2023-04-01,8,9,8,8,9,8,0,0
+control,,355214918,9,Very informative,,2023-04-01,10,,,10,10,9,0,0
+control,,355526596,8,Relatively straightforward,General,2023-04-01,7,7,5,7,8,7,0,0
+control,,355529557,10,Adviser was friendly and helpful.,"Customer Service,General,UK Legacy",2023-04-01,10,10,6,10,10,10,0,0
+control,,355536525,10,"On the 13th March I ordered with Supanet, I contacted them again on the 3rd April to found out when I could expect my broadband, they had no answers, I immediately cancelled the order and contacted company sales, I spoke with a very helpful gentleman who informed me company would have me up and running in 2 days the 5th April, I immediately confirmed my order. Today is Wednesday 5th April I have received my parcel from company and my broadband is all connected, well done company, excellent service","Customer Service,General,Sales,UK Legacy",2023-04-01,10,10,10,10,10,10,0,0
+control,,355656682,9,Angie explained it to me well,,2023-04-01,10,8,10,10,10,9,0,0
+control,,355726212,10,"When I made my choice to have company supplied to my new home I was lucky enough to have Niccy on the phone I¬""m not a young person so sometimes one can get confused with technology, she explained everything in great detail she is a credit to your company and I thank her very much we have not received our kit as yet but I¬""m sure it¬""s on its way","General Services,Processes/Journeys",2023-04-01,10,5,10,10,10,10,0,0
+control,,355797193,9,Easy setup call handler was very helpful,"Customer Service,Delivery and Installation,General,UK Legacy",2023-04-01,10,9,10,10,10,9,0,0
+control,,355835437,10,Very friendly and knew what she was doing,Pricing,2023-04-01,10,10,10,10,10,10,0,0
+control,,355117085,10,,,2023-04-01,8,8,8,8,8,8,0,0
+control,,355841581,9,"Good service¬""s",General,2023-04-01,9,9,9,9,10,9,0,0
+control,,355801754,9,,Customer Service,2023-04-01,10,,10,10,10,10,0,0
+control,,355174348,10,,,2023-04-01,9,10,10,9,9,10,0,0
+control,,356119378,10,First contact is so important when you are signing up for a new service. My signing up was felt with in a very friendly and professional way .,Customer Service,2023-04-01,10,10,10,10,10,10,0,0
+control,,355550884,8,The broadband package is tempting and the customer service was excellent.,"Customer Service,General,UK Legacy",2023-04-01,8,5,9,8,7,6,0,0
+control,,356199494,10,Very good,,2023-04-01,10,10,10,10,10,10,0,0
+control,,355533599,8,,,2023-04-01,10,10,10,10,10,10,0,0
+control,,355560737,0,,,2023-04-01,0,0,0,0,0,0,0,0
+control,,355550007,9,,,2023-04-01,10,10,10,10,10,10,0,0
+control,,355661212,10,,,2023-04-01,8,8,8,8,8,7,0,0
+control,,356164280,8,The person who talked me through what was going to happen was very patient and talked me through all that wÃ¡s happening.,Customer Service,2023-04-01,10,,10,10,10,7,0,0
+control,,356165962,6,Strange company,,2023-04-01,7,5,8,8,8,6,0,0
+control,,356184528,10,"Helpful, pleasant, polite, made sure I understood the contract","Customer Service,General,UK Legacy",2023-04-01,10,10,10,10,10,10,0,0
+control,,355651978,10,Very polite and professional people who sorted my package out for me,"General,Customer Service",2023-04-01,10,10,10,10,10,10,0,0
+control,,356165696,0,My experience trying to cancel my contract in the 14day cool off was awful. The overseas call centre was very rude & unhelpful,"Contract,Contract CancellationCustomer Service,Customer Service,General,General Services,UK Legacy",2023-04-01,7,,,,,,0,0
+control,,355797878,10,The engineer that attended my house was very friendly with great sense of humour,"Customer Service,Technician",2023-04-01,10,10,10,10,10,8,0,0
+control,,356251212,9,"All good, but I never give 10 for anything.",,2023-04-01,9,5,9,9,9,8,0,0
+control,,355896319,0,"Because you keep sending me emails even after I delete them because I don¬""t want to answer",,2023-04-01,0,0,0,0,0,0,0,0
+control,,355795350,10,"Lady was so nice on the phone as I don¬""t know much about Internet",,2023-04-01,10,10,10,10,10,10,0,0
+control,,355835577,10,The CS agent and engineer were superb. Installation was super quick. Great service.,"Customer Service,General,UK Legacy",2023-04-01,8,10,10,8,8,10,0,0
+control,,355873171,10,installation man was very good,"Customer Service,Installation,Technician",2023-04-01,10,10,10,10,10,10,0,0
+control,,356343057,9,Customer service was great and the engineer Lucas was brilliant credit to the companyðxÜðx_x0018_ðx¾,"Customer Service,Technician",2023-04-01,9,10,10,9,10,5,0,0
+control,,356751702,10,Very polite and friendly,Customer Service,2023-04-01,10,10,10,10,10,10,0,0
+control,,356130501,0,"Poor customer service!!!!!!! I¬""ve been told twice I¬""d get a call back but nothing has happened. Your website says all sky channels in HD?? Sky sports is not¬¦very misleading for customers.","Brand,Customer Service,General,TV,TV/Video,UK Legacy",2023-04-01,3,8,5,4,4,3,0,0
+control,,356797007,9,I had a very competent representative guide me through joining companyia media.,"Customer Service,General,UK Legacy",2023-04-01,10,8,8,10,10,9,0,0
+control,,356205639,10,,,2023-04-01,7,0,5,8,7,8,0,0
+control,,356282530,10,Excellent service and politeness,General,2023-04-01,10,10,10,10,10,10,0,0
+control,,356874381,10,Good friendly service quick and easy,General,2023-04-01,10,10,10,10,10,10,0,0
+control,,356897113,9,Excellent service offed by the front desk,"Deepdive,Internet,Internet Service,UK Legacy,General",2023-04-01,10,10,10,9,10,9,0,0
+control,,356980518,10,Very helpful and positive response when I rang to set up broadband - thank you.,,2023-04-01,10,8,9,10,10,8,0,0
+control,,356373892,10,Very friendly and knowledgeable,,2023-04-01,10,10,10,10,10,10,0,0
+control,,356333330,1,To much pressure to Join so I cancelled,,2023-04-01,0,,,0,0,0,0,0
+control,,357029874,10,Jake the representative for company was simply above and beyond helpful and done everything for me with ease,"Customer Service,General,UK Legacy",2023-04-01,10,10,10,10,10,10,0,0
+control,,357082450,8,Good customer service,"Customer Service,General,UK Legacy",2023-04-01,8,8,8,8,8,8,0,0
+control,,357412566,10,Very fast and very good,,2023-04-01,10,10,10,10,10,10,0,0
+control,,357405561,2,Cut my Internet off . Asked for router to be sent after 5.00 tracker shows between 10 and 12,"Equipment,Internet,Internet Service,UK Legacy",2023-04-01,7,5,5,6,5,3,0,0
+control,,356757618,10,"He is very helpful, friendly, intelligent, skilful and nice gentleman","General,Internet,Internet Service,Reliability GeneralUK Legacy,Customer Service,UK Legacy",2023-04-01,10,10,10,10,10,10,0,0
+control,,357540021,5,Na,,2023-04-01,10,1,5,10,10,5,0,0
+control,,356951636,0,"You keep sending me messages for a completely different person, you tell me my equipment has been delivered, NO it hasn¬""t, the emails have the totally wrong price on them so am NOT impressed at all, so where we go from here I don¬""t know","General,Pricing",2023-04-01,5,0,0,5,5,5,0,0
+control,,357708277,10,,,2023-04-01,10,10,10,10,10,10,0,0
+control,,357033467,10,"Excellent service from the get go, the gent I spoke to on the phone, and the guy who did the installation were superb. I can¬""t remember their name though.",,2023-04-01,10,10,10,10,10,10,0,0
+control,,357093509,9,,,2023-04-01,9,9,5,9,8,10,0,0
+control,,357710924,0,"Ordered Thursday 20th April and was sent a confirmation for delivery Monday 24th. Delivery was late so I called up on Friday 28th, and was informed that my order had not gone through. Had to order again over the phone, with another credit check, and soonest delivery Tuesday 2nd May.",Delivery and Installation,2023-04-01,7,0,10,8,8,10,0,0
+control,,357750035,9,,,2023-05-01,10,10,10,10,10,9,0,0
+control,,357391798,10,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,357667220,10,Very adaptable and patient/ helpful,,2023-05-01,10,10,9,10,10,9,0,0
+control,,357413787,7,"The agent was very polite and helpful, but I am wondering why he hasn't sent me the contract papers with the details as he promised. I also like to remind him of one month free plus six months £15.00","Customer Service,Pricing,Reliability GeneralCustomer Service,General,UK Legacy",2023-05-01,9,10,10,9,9,8,0,0
+control,,357513038,10,Really really helpful,,2023-05-01,10,10,10,10,10,10,0,0
+control,,358259156,10,Customer service was excellent,"Alert,General,Internet Service,UK Legacy,Customer Service",2023-05-01,10,10,10,10,10,10,0,0
+control,,358163081,9,All requirements were met with courtesy and helpfulness and promptness. I was informed of all I needed to know.,,2023-05-01,9,,9,9,9,9,0,0
+control,,357640188,10,Agent was very helpful in setting me up with the new broadband a true gent,"Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,358269933,10,Very friendly staff and accommodating,Customer Service,2023-05-01,9,10,5,9,9,9,0,0
+control,,357692812,0,Awful !!,,2023-05-01,9,0,0,9,9,5,0,0
+control,,357710702,5,,,2023-05-01,5,6,6,5,7,4,0,0
+control,,358305986,10,The gentleman jack kindly got me a good priced package and explained everything well.,"General,Pricing,UK Legacy",2023-05-01,,10,10,,,,0,0
+control,,357759944,7,"Is a good service but trying to get to talk to a human person is really hhard , the people you use do not use very good english therefore were not easy to communicate with","Automated Phone System,Customer Service,General",2023-05-01,8,4,8,7,9,7,0,0
+control,,357761521,0,The router did not cover the whole of the house so computer at back of house ran very slow. Also would need to keep answer phone and hive hub in front room - not good. When I rang to cancel I was told there was at least a 7 day delay that I was going to have to pay for - even though I was cancelling the very next day after activation the service. I was also told there was a high connection charge - which was not the case for when I registered for the service I was told there would be no connection charge. When this was pointed out the telephone operator checked and agreed there was no connection charge but I would be paying for the service for the next seven days at least. I am not happy about this - I used the service for two days at most - the day it was activated and the day it was cancelled. (wed 3rd May and Thursday 4th May) and I didn't even connect up the TV or use the company tv box.,"Mobile Service,Reliability GeneralAlert,Equipment,General,Internet,Internet Service,Reliability GeneralUK Legacy,UK Legacy",2023-05-01,6,2,0,7,10,1,0,0
+control,,358518262,4,Long installation times and misleading text messages from you.,,2023-05-01,3,3,10,3,3,3,0,0
+control,,357435535,9,,,2023-05-01,8,8,8,8,8,8,0,0
+control,,357757396,8,"Easy process although did have to go through the same questions a few times and original contact never got in touch when he said he would. Hopefully, once installed, it will be a great experience.",,2023-05-01,8,9,9,9,9,9,0,0
+control,,358670266,9,Best broadband,"Deepdive,General",2023-05-01,10,10,10,10,10,9,0,0
+control,,358178086,1,,,2023-05-01,2,0,0,1,1,2,0,0
+control,,358752585,10,Good internet connection,General,2023-05-01,10,10,10,10,10,10,0,0
+control,,358845220,10,Agent was very helpful from start to finish and made sure we got the right package for us at the best price.,"Customer Service,General,Pricing,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,358251091,3,"Poor customer care, told to wait in for an engineer so did so all day and nobody arrived and no call to tell me this was going to happen.","Customer Service,General,Technician,UK Legacy",2023-05-01,10,5,7,10,10,9,0,0
+control,,358257835,10,"Agent that came was very polite and helpful, although I told them on phone I had no boxes or wires in the house for a quick set up, he wasn't allocated enough time, he stayed and solved the problem and explained how everything worked.","Customer Service,Technician",2023-05-01,10,10,10,10,10,10,0,0
+control,,358268688,0,"Your customer service is awful and you really need to ditch the overseas call centers. Kindness and understanding in the voice go a long way. You can feel the contempt in operator voices (sniggering and laughing when you say you cannot understnd what they are saying - feels intentional) and cannot quite get all of the words due to very strong accents. Your only saving grace is the physical connection and stability of that. Thankfully, because connection quality is good I rarely (if ever - Thank Goodness) have to contact your call centers. Would not touch with a barge pole otherwise. Take a look at Now Broadband whos operators are absolutely marvellous. Lessons learned or brushed under the carpet? Haha","Customer Service,General,Reliability GeneralUK Legacy",2023-05-01,1,9,0,1,2,1,0,0
+control,,358950053,10,Very polite engineer who consulted every step and very patient,"Customer Service,Processes/Journeys,Reliability GeneralTechnician,Technician",2023-05-01,10,10,10,10,10,10,0,0
+control,,358893205,10,,,2023-05-01,10,5,3,10,10,10,0,0
+control,,358869083,8,Very helpful and informant,"TV,TV/Video",2023-05-01,9,,7,9,9,8,0,0
+control,,358369084,10,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,358785303,10,Polite and helpful phone staff that reached out and made an extra effort to call me back and help me move my Internet address when I hadn't even requested. They knew to reach out because of me searching the post code of the next address via company media website. They went out of their way to help me change account details as well and was very kind.,"Customer Service,General,General Services,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,358743765,0,,,2023-05-01,0,0,0,0,0,0,0,0
+control,,359195523,10,"The colleague who called me was very polite, professional and efficient. I would recommend company to anyone if I knew he was the one setting them up.",Customer Service,2023-05-01,10,5,5,10,10,8,0,0
+control,,359217669,10,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,359215551,10,"Lady rang me when promised,helpful & friendly","Deepdive,General,Internet,Internet Service,UK Legacy,Customer Service",2023-05-01,10,10,10,10,10,10,0,0
+control,,359199212,9,,,2023-05-01,10,10,10,10,10,7,0,0
+control,,359227723,0,"I have had to call company everyday. 15/05/23 spoke to at least 10 different people in 10 different departments. Each time having to re-explain the situation, one member said yes they can activate internet but in a different department, got to that department they said it couldn't be done... No manager was available to talk to. I have been told activation will happen on 3 different dates due to companys delays. This has caused me to loose wages from work as I work from home and rely on the internet to work. My son is disabled and uses the internet to communicate, so has had 3 days of non communication so far. I am speaking to other suppliers and will be cancelling with company within my 30day cooling off period. I will not under any circumstances recommend company and I will be publishing my experience on social media. You need to get your departments organised, leadership needs to be held accountable and staff clearly need more adequate training.","Brand,Customer Service,Deepdive,General Service,Internet,Internet Service,Test,UK Legacy",2023-05-01,0,0,0,0,0,0,0,0
+control,,359361583,10,"Everything was made extremely clear. The agent I dealt with was polite and friendly and when promised a call back, actually did so as planned.",Customer Service,2023-05-01,10,10,10,10,10,10,0,0
+control,,359402193,10,Very helpful agent clearly stated everything I needed to know and took me through the whole process in a polite and professional manner stating when the service would start and when to expect my equipment.,"Customer Service,Installation,General,UK Legacy",2023-05-01,10,9,8,10,10,9,0,0
+control,,359396338,10,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,358892501,10,Very polite and helpful when I got to speak to somebody,Customer Service,2023-05-01,10,6,5,10,10,10,0,0
+control,,358952162,8,,,2023-05-01,7,7,7,7,7,7,0,0
+control,,359547396,10,"The customer service is Excellent from when i was a customer, thats why i left but now i'm crawling back haha","Deepdive,Reliability GeneralCustomer Service,Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,359476311,10,Coz Davie was lovely. Great salesman¬¦ local to me¬¦ I just hope you can maintain the excellent customer service that was given to me during our call. As a previous customer of company¬¦ then¬¦ the customer service was absolutely pants!,"Customer Service,General,Sales,UK Legacy",2023-05-01,10,5,10,10,10,10,0,0
+control,,359530209,10,"Great value for money and friendly helpful customer service, not had installation yet so can¬""t comment on much, so far so good","Customer Service,General,Pricing,UK Legacy",2023-05-01,10,5,10,10,10,10,0,0
+control,,358931638,10,"Customer service excellent,polite and extremely helpful .","Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,359811913,10,"Angie's customer service was excellent -- he took me through all my options in a clear and comprehensive way, made sure things got sorted really quickly, and was super friendly to talk to.","Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,359303431,10,The technician was excellent,Technician,2023-05-01,6,4,6,4,7,10,0,0
+control,,359400681,10,Excellent service,General,2023-05-01,10,10,10,10,10,10,0,0
+control,,359205273,10,It was a quick and easy set up,"Brand,UK Legacy,Delivery and Installation",2023-05-01,10,10,10,10,10,10,0,0
+control,,359885527,10,Good customer service,"Customer Service,General,UK Legacy",2023-05-01,8,10,7,10,10,6,0,0
+control,,359997714,9,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,360144627,10,,,2023-05-01,10,10,10,10,10,10,0,0
+control,,360128593,10,"Good customer service, polite Staff","Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,360038130,10,"Your lady who helped me, her name was Clara, was absolutely wonder. She explained everything to me, and was a delight to speak to.please thank her for me, and tell her I enjoyed our chat.","Brand,Pricing,Customer Service,General,UK Legacy",2023-05-01,10,8,8,10,10,10,0,0
+control,,359543300,10,"The experience is really good. The price can be a bit expensive. But I have had good experience with company media so far. The engineer, who came to my address was very professional and friendly. And did a really good job running the wires nice and tidy. Exactly how I wanted.","Customer Service,General,Technician,UK Legacy,Pricing",2023-05-01,9,9,8,9,8,8,0,0
+control,,359597175,10,Good service,General,2023-05-01,10,10,10,10,10,10,0,0
+control,,360001021,10,"Mat was incredibly helpful and friendly made me feel at ease while I was trying to decide where I was going to go but with no pressure just laid out facts and remained friendly. I called to have an engineer come out and spoke with Cary who was also incredibly helpful booked me someone within a day and he was very polite and talkative. Finally Si came out with a colleague whos name i was unable to get to install they were both great made the process very easy for me to understand the process and even helped me with a cable that I didn't know was damaged. Start to end process has been excellent, special thank you to all who helped.","Customer Service,General,Technician,UK Legacy",2023-05-01,10,10,10,10,10,10,0,0
+control,,359817026,7,,,2023-05-01,10,8,9,10,10,8,0,0
+control,,359733535,10,"The best technician I've ever met. He was very professional and gentle person. He had a calm and cool personality. Even though there was a delay in opening the door to him, he waited patiently and was cool with it. Overall the installation went fast and perfectly. Thank you for providing with professionals with good character rather than other providers. That is one point right on the sheets.","Brand,Customer Service,Technician,UK Legacy",2023-05-01,10,10,8,10,10,10,0,0
+control,,359763785,10,"The engineer that came to help with the installation, Abbie, went above and beyond to understand how I wanted the setup and make sure everything was done properly. Very happy with his service.","Installation,Technician",2023-05-01,8,8,6,8,8,8,0,0
+control,,359908997,9,THE REASON IS BECAUSE FOLLOWING MY JOINING company THE SUBSEQUENT VERY NEXT DAY THE company TEAM FITTED EQUIPMENT OUTSIDE MY COTTAGE HERE IN NEWTONGRANGE THANKYOU VERY MUCH FOR YOUR VERY PROMT SERVICE ONLY ONE SMALL COMPLAINT HAVING DIFFICULTY IN OBTAINING DUE FINANCIAL REWARD YOURS SINCERELY,"Customer Service,Processes/Journeys",2023-06-01,8,10,10,8,10,8,0,0
+control,,359916121,10,"super quick, responsive and helpful. Great customer service, thank-you!","Customer Service,General,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
+control,,360179117,10,"It's speed is awesome, there is no shut down. Customer services are excellent and staff is highly cooperative.","Customer Service,Deepdive,Internet",2023-06-01,10,10,10,10,10,10,0,0
+control,,360805510,10,"Efficient, courteous staff. Good service and prices. Glad to be on board. John.","Customer Service,General,Pricing,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
+control,,360829926,9,Easy set up and good price,"Alert,Customer Service,Delivery and Installation,General,Internet Service,UK Legacy,Pricing",2023-06-01,10,10,9,10,10,9,0,0
+control,,360856024,10,Very fast Internet,"Customer Service,General,UK Legacy,Deepdive,Internet,Internet Service",2023-06-01,10,9,10,10,10,6,0,0
+control,,360712563,9,,,2023-06-01,10,5,10,10,10,10,0,0
+control,,360711840,0,I cant get my box to work,"TV,UK Legacy",2023-06-01,10,0,10,10,10,10,0,0
+control,,360879207,10,Very helpful and efficient service and competitive broadband TV package,"Customer Service,General,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
+control,,361233556,10,"Very good customer service from Agent and she found us a really good deal, a lot better than we was getting from sky","Brand,Customer Service,General,UK Legacy",2023-06-01,10,10,10,10,10,10,0,0
+control,,361238644,10,The reson is your one emplyee Rosie She helped me by going extra mile over the phone this ranking is only for that lady as for you online sale department their performance is not good,Sales,2023-06-01,10,7,10,10,10,8,0,0
+pilot,,351106184,10,Very helpful,,2023-02-01,10,10,10,10,10,10,0,1
+pilot,,351657780,10,Excellent customer service very helpful and informative making my decision to join very easy,"Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
+pilot,,351252622,10,"Lee who came to install my port for the hun was a fantastic help. Purely on him coming to fix any issues I had and set up the hub I¬""d recommend. Call centre help was poor, but Lee was amazing.","Deepdive,General,Internet,Reliability GeneralCustomer Service,Customer Service,Equipment,Internet Service,UK Legacy",2023-02-01,4,6,3,4,4,6,0,1
+pilot,,351795919,10,Explained everything perfectly and found the right package for us,"Deepdive,Internet,Internet Service,Reliability GeneralUK Legacy",2023-02-01,10,9,10,10,10,10,0,1
+pilot,,351804610,9,"Short, simple, precise.",,2023-02-01,9,9,9,9,9,9,0,1
+pilot,,351307698,8,Been helpful and patient,,2023-02-01,10,10,10,10,10,7,0,1
+pilot,,351228495,4,The main sales team and service I'd give a 10 they were brilliant but when u put me through to the installation team it all went wrong I couldn't understand them and they couldn't help at all I tried 3 different members of the team all the same lucky I managed to get back to sales team and again they were brilliant and managed to sort the issue out. I was very close to cancelling because of them though,Sales,2023-02-01,10,5,8,10,10,10,0,1
+pilot,,351879110,2,"The sales person was very pushy, tryed to sell far bigger package than needed..then tried to sell another package I didn't need... I still haven't received my product and the email shows the wrong package...","Deepdive,Internet,Internet Service,UK Legacy,Sales",2023-02-01,0,0,5,2,6,0,0,1
+pilot,,351927230,9,,,2023-02-01,10,,10,10,10,10,0,1
+pilot,,351954246,10,"The sales person, Adam, was most patient and helpful with processing the order.","Customer Service,General,Processes/Journeys,Sales,UK Legacy",2023-02-01,10,5,10,10,,,0,1
+pilot,,351954904,0,I was given the wrong cord and I called but no one reponded with any solution. I am urgently in need of broadband and company media failed to deliver what was promised. I am grossly disappointed,"Deepdive,Internet,Internet Service,UK Legacy",2023-02-01,3,0,4,3,4,3,0,1
+pilot,,351433189,10,"I've only had company media for a few days now, and I'm really happy with the service . Everyone has been very helpful and supportive.",,2023-02-01,,,,,10,,0,1
+pilot,,352247356,10,Great customer service.,"Sales,Customer Service,General,UK Legacy",2023-02-01,10,10,10,10,10,10,0,1
+pilot,,352217961,9,,,2023-03-01,10,8,10,9,9,9,0,1
+pilot,,351710544,7,,,2023-03-01,7,7,7,7,7,8,0,1
+pilot,,351741477,10,,,2023-03-01,9,7,5,9,10,7,0,1
+pilot,,351803343,10,"The young man who visited and set the Internet up was respectful, informative and knowledgeable.","Customer Service,Technician",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,352228207,0,"My internet isn¬""t working your team are pushy and despite having put in account details to talk to someone on the phone you have to repeat them. It¬""s a frustrating and soul destroying experience","Deepdive,Internet,Internet Service,Reliability GeneralTest,UK Legacy",2023-03-01,0,0,2,0,0,0,0,1
+pilot,,352466185,8,,,2023-03-01,10,5,8,10,10,8,0,1
+pilot,,352488800,7,Haven't gave it a 10 because when I was setting up the TV and Broadband package with one of your employer's on your team they was going through the payments and bundle I was having and tried to charge me a set up fee when I new it was free could say it was just a mistake but if I didn't have my wit's about me and pointed out it was free of charge he would of charged me on my bill I let him check it out for himself but was put right and we moved on and carried out the deal I had Infront of me apart from that he was helpful .,Delivery and Installation,2023-03-01,5,,10,3,8,7,0,1
+pilot,,352538490,7,The lady I spoke to was very helpful.,,2023-03-01,8,7,8,8,8,7,0,1
+pilot,,352428094,10,,,2023-03-01,10,8,10,10,10,10,0,1
+pilot,,352590164,7,,,2023-03-01,9,9,9,9,9,9,0,1
+pilot,,352594108,9,"Good customer service. Adam was knowledgeable, helpful and swift in processing the order. The order itself arrived the next day !!!, Amazing and was seamlessly installed and is up and running nicely making a huge difference to the internet speed. Thank you for the great service and hope this is maintained at this level throughout our engaggement.","Customer Service,General,Internet,Internet Service,Processes/Journeys,UK Legacy",2023-03-01,9,9,9,9,9,9,0,1
+pilot,,352854408,10,,General,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,352889717,10,The man we talked to was very help full,"General,Pricing,Customer Service,Technician,UK Legacy",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,352224515,10,I was satisfied with the service rendered by company media staff and the technician that came to install my black box very nice.,"General,Pricing,UK Legacy,Installation,TV,TV/Video,Technician",2023-03-01,9,10,9,8,9,9,0,1
+pilot,,352968501,9,I liked the professionalism,,2023-03-01,10,9,10,10,10,10,0,1
+pilot,,352326736,10,,TV,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353070189,8,,,2023-03-01,8,8,8,8,8,8,0,1
+pilot,,352295433,9,,,2023-03-01,8,8,8,8,9,8,0,1
+pilot,,353114013,7,"Far to many e-mails and messages, plus its only been two days since ordering the phone line which is not yet installed.",Phone Service,2023-03-01,9,5,5,9,10,5,0,1
+pilot,,353087712,9,Very satisfied upto now won't give a 10 until I know that it is up and running ok,,2023-03-01,10,9,10,10,10,10,0,1
+pilot,,353140537,10,Super,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,352885817,10,"Quick, efficient service with easy set up.","Delivery and Installation,General",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353184767,4,"Well, I give a 4 because the set up went fairly smooth but the next day I call in the c.s to update my bank details and found out that there is an ongoing broadband issue in my area.","Automated Phone System,Customer Service,Internet,Internet Service,Reliability GeneralUK Legacy",2023-03-01,9,5,9,7,10,9,0,1
+pilot,,353182164,0,I am not able to change the plan as I am getting any help from customer service,"Customer Service,General,UK Legacy",2023-03-01,0,0,0,0,0,0,0,1
+pilot,,352524493,8,,,2023-03-01,9,9,10,9,9,8,0,1
+pilot,,353220168,10,Was so helpful and kind. He got everything sorted so quickly and told me about the other offers i could get. Just such a lovely guy! Give him a raise!!,Customer Service,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,352937209,10,Good affordable service Staff helpful,"Customer Service,TV,Technician,UK Legacy,General,Pricing",2023-03-01,9,10,10,9,10,9,0,1
+pilot,,353596005,8,,,2023-03-01,9,9,8,9,9,9,0,1
+pilot,,353559196,10,Reasonable price,"Brand,Deepdive,General,Pricing,UK Legacy",2023-03-01,10,,10,10,10,10,0,1
+pilot,,353110821,0,"Basically a waste of time. They can¬""t install anything. They weren¬""t interested in trying to help set it up. Second chap gave me some information telling me I would have to run cables outside my house and all over the inside as well. Not impressed. I was also told someone would be in touch about there efforts that has not happened. I have now cancelled my set up fo direct debit","Billing,Technician",2023-03-01,0,0,0,0,0,0,0,1
+pilot,,353315214,10,,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353627681,10,"Very polite & extremely helpful , great service","Customer Service,General",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353726914,10,,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353088744,10,They are a belligerent team. They don't rest until they get you connected. They really take their time to explain all the processes to you and make sense of all the technical jargon associated with their services.,"Customer Service,General,UK Legacy",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353106350,7,Expensive but the best value around for the address,"General,Pricing,UK Legacy",2023-03-01,9,8,9,9,9,8,0,1
+pilot,,353825461,10,,,2023-03-01,10,,,,,10,0,1
+pilot,,353946187,4,I found it very difficult to understand your agents over the phone and rather than agreeing to my eyes they tried to sell me something different,Customer Service,2023-03-01,3,,5,5,7,3,0,1
+pilot,,354099592,10,Cheap easy to contact efficient and good communication from rep .,"Alert,General,Internet Service,UK Legacy,Automated Phone System,Customer Service,Pricing",2023-03-01,9,10,10,10,10,10,0,1
+pilot,,353591company6,10,,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353331322,10,The staff is so knowledgeable with their products and know how to sell them,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,354158738,9,The phone conversation I had with your representative was well explicit. He had already sorted my order out on phone. Great job.,"General,Pricing,UK Legacy",2023-03-01,8,,9,9,8,8,0,1
+pilot,,354144637,10,,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,354249281,9,i spoke to adam who was very helpful,,2023-03-01,9,9,9,9,9,9,0,1
+pilot,,353634601,9,Helpful on the phone queries,,2023-03-01,9,,,9,9,8,0,1
+pilot,,354256077,0,,,2023-03-01,5,0,0,5,5,0,0,1
+pilot,,354231120,10,Very friendly and helpful,"Customer Service,General,UK Legacy",2023-03-01,,5,8,,,,0,1
+pilot,,353578979,10,,,2023-03-01,10,7,7,8,10,7,0,1
+pilot,,354226617,10,I was dealt with in a professional manner and everything was fully explained.,,2023-03-01,10,10,10,10,10,8,0,1
+pilot,,354217465,10,The customer service is on point and the offer I was given is excellent.,"Customer Service,General,UK Legacy",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353869073,8,"Installation is super fast and easy, delivery is also very fast. Internet speed is about just excellent despite the fact that it is between 500 and 800 instead of the 1company4 expected. The only concern is that the call to request the interned is long, it takes up to 1 hour.","Delivery and Installation,Internet,Internet Service,UK Legacy",2023-03-01,10,8,8,10,10,10,0,1
+pilot,,354316538,10,"The girl I spoke to was brilliant, very helpful, understanding and got the job done.",,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353822093,8,,,2023-03-01,8,6,6,8,9,8,0,1
+pilot,,354371678,9,Quick n easy n understanding staff,,2023-03-01,9,6,7,9,9,6,0,1
+pilot,,353707143,9,"Good customer service very polite &helpful lad didn¬""t over sell anything. The price was good.","Customer Service,General,Pricing,Technician,UK Legacy",2023-03-01,8,8,8,8,8,8,0,1
+pilot,,354384061,10,Olivia very help and friendly,"Customer Service,General,UK Legacy",2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353897859,10,,"Customer Service,Technician",2023-03-01,10,10,5,8,10,10,0,1
+pilot,,354472764,10,Very efficient and helpful,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,353881881,8,"Hi yes when I phoned up the lady I spoke to said she would phone me back but she didn¬""t so after much thought I decided to Canceled the package I Hope this answers your question.?",Contract,2023-03-01,,,,,,,0,1
+pilot,,354147585,10,Very friendly engineer who answered our questions kindly and installed our system without hassle and on time.,"Customer Service,Installation,Technician",2023-03-01,10,10,10,10,10,8,0,1
+pilot,,354152137,9,,,2023-03-01,9,9,9,9,9,9,0,1
+pilot,,354218463,10,Really friendly,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,354257944,9,Very helpful,,2023-03-01,10,10,10,10,10,10,0,1
+pilot,,355154109,8,,,2023-04-01,8,8,8,8,8,6,0,1
+pilot,,355146541,10,"I was offered the best option that suits me, friendly conversation, and helpful.","Customer Service,General,Pricing,UK Legacy",2023-04-01,10,,10,10,10,10,0,1
+pilot,,355481414,10,,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,354333979,1,I am very unhappy to now read that there will be a £54 Installation Fee..... What is this? The apartment was already assigned to company by the previous Tennant. And no engineer came to install anything. I took delivery of the box and installed it myself.,"Delivery and Installation,Installation,TV,TV/Video,Technician",2023-04-01,9,,0,,9,,0,1
+pilot,,355122962,0,Awful service and support. Work only sales. After - no any help. Site doesnt work. I am really disappointed,General,2023-04-01,5,0,0,5,5,0,0,1
+pilot,,355561713,10,Great customer service,"Customer Service,General,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,354231325,10,He was very friendly and explained things well,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,355527679,10,Good service,General,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,355064086,0,"Customer service keep hanging up the call can¬""t solve any of the problems overall sh*t service","Customer Service,General",2023-04-01,0,0,0,0,0,0,0,1
+pilot,,354391642,9,Excellent service,General,2023-04-01,9,9,8,9,9,9,0,1
+pilot,,355069603,0,Extremely disappointed with your customer service team. I am still awaiting a response from your fraud prevention team and I have waste hours of my time already on a service I have yet to receive.,"Customer Service,General,UK Legacy",2023-04-01,0,0,0,0,0,0,0,1
+pilot,,355110169,9,Very helpful and friendly advisor. Good package deal.,"Customer Service,General,General Services,UK Legacy",2023-04-01,9,9,9,9,9,9,0,1
+pilot,,355084259,0,Communications terrible,,2023-04-01,0,5,5,5,5,0,0,1
+pilot,,355946892,10,Very efficient and friendly,,2023-04-01,10,,9,10,10,10,0,1
+pilot,,356074368,9,"Very patient call handler, explained everything in detail with good professionalism and polite voice tone throughout. Did not upsell and pressurised in get other services.","Customer Service,General,UK Legacy",2023-04-01,10,9,5,10,10,8,0,1
+pilot,,356191936,9,"Percy was helpful, polite and patient","Customer Service,General,UK Legacy",2023-04-01,9,9,9,8,9,7,0,1
+pilot,,356131801,3,Despite having entered all my data online I then had to go through everything on the phone It was extremely difficult to understand the advisor,"Customer Service,UK Legacy",2023-04-01,2,8,10,6,7,5,0,1
+pilot,,356109736,9,"Easy set up process , very helpful staff on the phone.","Deepdive,Internet,Internet Service,UK Legacy,Customer Service,General,Installation",2023-04-01,10,10,10,10,10,9,0,1
+pilot,,355773846,9,,,2023-04-01,9,9,9,9,9,9,0,1
+pilot,,355131644,10,Great service. Friendly staff.,"Customer Service,General",2023-04-01,10,6,10,10,10,5,0,1
+pilot,,356284910,10,Very quick service,,2023-04-01,10,10,10,9,10,6,0,1
+pilot,,356249504,10,Very good price and service,"General,Pricing,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,355803712,10,you are very efficient=====will you be moving sat dish when you install,,2023-04-01,10,0,10,10,10,10,0,1
+pilot,,356359266,10,Straight forward,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356355268,5,,,2023-04-01,7,7,5,7,7,5,0,1
+pilot,,356466593,9,A great price,"General,Pricing,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356686772,10,How easy it was to set up.,"Equipment,Delivery and Installation",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356671054,10,"The person whom set my account up was helpful, and fully explained everything.",,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356451804,10,The person I spoke was so help and understanding you have a fantastic team working for you I had the best experience and it wasn't stressful at all with other pervasive they make your experience stressful but you never best customer care ever,"Internet,Customer Service,General,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356828844,10,"Efficient service, great price, fast setup/delivery, great all round","Delivery and Installation,General,Pricing,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356118986,10,,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356734041,10,Excellent service from advising me about package deals to being connected,"General,General Services",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356234554,0,"Lied to me, telling me company was already in my home and they could set me up in five days to find out there¬""s no cables anywhere near my home and they¬""ve have to dig up an entire shared drive for me to have company. Very disappointed. I will be cancelling.",,2023-04-01,,,,,,,0,1
+pilot,,356720928,10,"When I finally was able to speak to someone. They were very helpful. Going forward I would suggest it would be helpful to have a phone number, more easily accessible. I came very close to giving up with the online signing.","Automated Phone System,Customer Service,General,UK Legacy",2023-04-01,10,5,10,10,10,5,0,1
+pilot,,356384927,10,Engineer was extremely competent and had a vast knowledge of services available from company I was unaware of. Have requested a streaming hub for sports add ons. Rating excellent as he read the job notes and attended last call as requested,"Customer Service,Technician,Equipment,TV,TV/Video,UK Legacy",2023-04-01,1,5,0,0,5,2,0,1
+pilot,,356990696,10,Sade was extremely friendly and helpful,"Customer Service,General,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,357395880,10,"Great customer service, best wifi on the market, and I also like that I have heard that company engineers, use their own white box, wires, and install to completion.","Customer Service,General,UK Legacy,Alert,Internet Service,TV,TV/Video,Technician",2023-04-01,10,2,8,10,10,10,0,1
+pilot,,356355837,9,Competence and friendly manners during the call. Even though I was in a crowded surrownding. We set up a contract and everything was fine.,Delivery and Installation,2023-04-01,9,9,9,9,9,9,0,1
+pilot,,356740598,4,The cords to be connected to the wall unit is not of the same size,,2023-04-01,6,1,3,6,6,6,0,1
+pilot,,356746234,10,,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356801531,5,Not happy with way contract was sold to me,,2023-04-01,1,8,5,1,5,3,0,1
+pilot,,357550741,9,Colleague was very friendly and knowledgable,,2023-04-01,10,9,9,10,10,10,0,1
+pilot,,356868776,10,,,2023-04-01,10,10,10,10,10,10,0,1
+pilot,,356896813,10,Technician was nice,"Customer Service,Technician",2023-04-01,8,5,3,8,8,8,0,1
+pilot,,357611249,10,Great price - very competitive,"Brand,General,Pricing",2023-04-01,10,,10,10,10,10,0,1
+pilot,,357565546,10,"Helpful, thorough and patient throughout.",,2023-04-01,10,10,5,10,10,10,0,1
+pilot,,357638856,10,Amazing customer service by sade,"General,Customer Service,UK Legacy",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,357056541,9,Perfect,,2023-04-01,3,10,0,0,5,8,0,1
+pilot,,357637018,10,"The guy I spoke to had amazing customer service skills and he was very polite, friendly and professional he assisted me all the way through until I found the correct broadband.","Deepdive,Customer Service",2023-04-01,10,10,10,10,10,10,0,1
+pilot,,357429703,0,I have contacted regarding my login problem but it is not sorted yet.,,2023-05-01,0,0,0,0,0,0,0,1
+pilot,,358166625,10,"Great deal, ur salesman on the phone was very good and accommodating , explained everything I needed to know.","Customer Service,General,UK Legacy,Sales",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358099073,5,I was cut off 3 times before I finally got through. Once I did the service was great but it was very frustrating being cut off so many times.,Automated Phone System,2023-05-01,9,0,7,9,9,9,0,1
+pilot,,358173742,8,Very pleasant call centre agent. Very fast installation of the external box.,"Customer Service,TV,TV/Video,UK Legacy",2023-05-01,10,6,9,8,10,8,0,1
+pilot,,358197012,9,The person on the phone was polite and gave me all the information I needed to make the right choice of which broadband was the best one for me,Customer Service,2023-05-01,10,9,10,9,10,9,0,1
+pilot,,358178543,10,Excellent Support .. made it so easy,,2023-05-01,10,8,10,10,10,10,0,1
+pilot,,358375118,10,Easy to change over & friendly & professional call taker !,Customer Service,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358355234,4,"I was told that you could supply service to the property I am moving into, but I was not told that in order to connect me, you would have to lay a trench, digging up the front of the property. As I am renting the property I cannot give permission for this work without precise details of what will be involved and the impact on the landlord's property and garden. This should have been made clear to me at the time of discussing the service that company Media could provide. All that was discussed was the connection visit when an engineer would conect the router.","Alert,Equipment,General,General Services,Internet,Internet Service,Reliability GeneralUK Legacy,UK Legacy",2023-05-01,7,6,5,5,10,8,0,1
+pilot,,358092719,10,,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358192354,10,Very prompt response,Customer Service,2023-05-01,10,1,10,10,10,10,0,1
+pilot,,357977144,10,,,2023-05-01,10,,,10,10,10,0,1
+pilot,,358079298,10,"Great service, Quick set up!",General,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358667216,10,,,2023-05-01,10,,9,10,10,9,0,1
+pilot,,358642905,10,,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358786257,10,,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358097961,9,,,2023-05-01,9,9,9,9,9,8,0,1
+pilot,,358653626,10,Very helpful,,2023-05-01,,9,10,5,5,10,0,1
+pilot,,358636538,10,Excellent service,"Customer Service,Technician,General",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358196434,8,,,2023-05-01,9,6,7,9,9,8,0,1
+pilot,,358848700,7,,"Customer Service,General,UK Legacy",2023-05-01,10,8,6,9,9,7,0,1
+pilot,,358182103,10,Very helpful,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358888279,10,Great customer service.,"Customer Service,General,UK Legacy",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358878332,8,Great benefits but pricey,"General,Pricing,UK Legacy",2023-05-01,9,9,10,9,10,9,0,1
+pilot,,358268688,0,"Your customer service is awful and you really need to ditch the overseas call centers. Kindness and understanding in the voice go a long way. You can feel the contempt in operator voices (sniggering and laughing when you say you cannot understnd what they are saying - feels intentional) and cannot quite get all of the words due to very strong accents. Your only saving grace is the physical connection and stability of that. Thankfully, because connection quality is good I rarely (if ever - Thank Goodness) have to contact your call centers. Would not touch with a barge pole otherwise. Take a look at Now Broadband whos operators are absolutely marvellous. Lessons learned or brushed under the carpet? Haha","Customer Service,General,Reliability GeneralUK Legacy",2023-05-01,1,9,0,1,2,1,0,1
+pilot,,358883009,1,"Was good my WiFi would be delivered between 7AM -7PM. Stayed in the house all day, working from home with no wifi. Delivery never showed up - day wasted. Customer service received was polite but totally ineffective and unhelpful","Alert,Customer Service,General,Internet,Internet Service,UK Legacy",2023-05-01,5,0,1,5,5,5,0,1
+pilot,,358405588,10,Everything sorted easily,"Brand,General,Pricing",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358869291,7,We have no experience yet. Installation on June 3rd,,2023-05-01,8,5,9,5,9,5,0,1
+pilot,,358600078,10,,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358684695,10,,,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,358679375,8,Good service at a reasonable price,"General,Pricing,UK Legacy",2023-05-01,9,7,7,9,9,8,0,1
+pilot,,359219655,8,,,2023-05-01,8,8,8,10,10,8,0,1
+pilot,,359519424,10,,,2023-05-01,9,9,8,9,9,7,0,1
+pilot,,359391654,7,"because we were introduced back to company,having been with you before by a friend but couldn't find out about the offer £50 off etc until very end conversation",,2023-05-01,6,6,6,,6,5,0,1
+pilot,,359561245,8,,,2023-05-01,8,8,8,8,8,8,0,1
+pilot,,359210169,10,Dealt with quickly and the guys who came to set up the tv/hub were very good.,"Equipment,Internet Service,UK Legacy",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,359840063,1,Communication skills are very very poor very hard to ear as well do not explain things properly in proper English company Media also put you on things that you have not asked for even now you saying now to things they're putting you on things,"Automated Phone System,Customer Service",2023-05-01,0,0,0,3,2,0,0,1
+pilot,,359217207,9,Happy with service,,2023-05-01,10,10,9,9,10,9,0,1
+pilot,,359189261,10,"I moved into a property last June and was unable to enjoy the services that company Media provided me at my previous address for over 30 years, due to the previous owner declining the installation as she already had Sky installed. I can only assume that she was not sure how the cable would be run as the property is not directly on the kerb line and had its own drive with the house being set back. I did ask if the service was available before I move and was advised it was not at that time, but was advised that company Media were always expanding their services and I should enquire again in the new year. I enquired again in early May and the Sales operative was extremely helpful and was able to call me back and advise me that she would book a site visit to carry out a survey and was hopeful that I would get the service that I had been missing for the past 10 months. The engineers called and we discussed the route and since then things have been moving along swiftly. Termination box at the end of the property access installed last week, civils works and the running of cable yesterday, and full install into property due next Monday. What's Not to like about that. At all times I have been met with a Positive Can Do attitude and a degree of curtesy that I have found to be lacking from other companies over recent years. WELL DONE company MEDIA.","Brand,Customer Service,General,General Services,Processes/Journeys,Sales,TV,Technician,UK Legacy",2023-05-01,10,10,10,10,10,10,0,1
+pilot,,359291240,0,company media is the worst company I have ever used you cut the phone off with out any notice so we only went bk with your terrible company to keep our phone number witch you promised we would and you even made a mess av that so now you've given us a new number absolutely disgusting,Customer Service,2023-05-01,0,0,0,,0,,0,1
+pilot,,359440137,10,Because it's too fast,,2023-05-01,10,,10,10,10,10,0,1
+pilot,,359398013,10,The engineer Steve was on time friendly and helpful ðx_x0018_,"Customer Service,General,Technician,UK Legacy",2023-05-01,7,7,7,7,8,10,0,1
+pilot,,359556907,7,Customer care sounded very nicely but the rule of reading too many things and expecting me to make decision based on that is really odd. Let me use the service before I think of recommendation Please,,2023-05-01,,,,,,,0,1
+pilot,,359460936,10,Very polite and well knew his job inside and out,Customer Service,2023-05-01,10,10,10,10,10,10,0,1
+pilot,,359462686,10,Quick and efficient and good coverage,"Mobile,Mobile Service",2023-05-01,9,10,10,10,10,10,0,1
+pilot,,359400655,10,Sales staff was extremely helpful and easy to talk to,Sales,2023-05-01,10,5,10,10,10,10,0,1
+pilot,,360158522,10,Very helpful staff,"Customer Service,General,Pricing,UK Legacy",2023-05-01,10,8,10,10,10,8,0,1
+pilot,,360361675,10,Percy explained things clearly and understood from the start what I wanted. there was no hard sell. there was listening and understanding. top marks Percy and thank you,,2023-05-01,10,5,5,10,10,8,0,1
+pilot,,359978278,10,The team who came out were friendly and explained all they needed to do. Also clear about the fact one of them was a trainee but still provided an excellent customer service,"Customer Service,General,UK Legacy",2023-06-01,,10,10,10,10,10,0,1
+pilot,,360696182,10,My daughter went through everything with your operator as I am 8o years old and don't understand a lot of the language used technically. All I want is to be able to do what I know and enjoy it. My daughter is with you and praised your service highly.,,2023-06-01,10,8,10,10,10,10,0,1
+pilot,,360134204,7,I am new to company media so I can't say yet but I liked the service when setting up my account.,,2023-06-01,7,,,8,7,7,0,1
+pilot,,359879046,8,They are efficient,"Customer Service,General,Processes/Journeys,Technician,UK Legacy",2023-06-01,9,,10,9,10,9,0,1
+pilot,,361219755,10,The gentleman who dealt us was so helpful and friendly.. he deserves a lot of credit. Very nice man..,"Customer Service,General,Technician,UK Legacy",2023-06-01,10,10,10,10,10,10,0,1
+pilot,,361221707,10,Really easy to get what deal I wanted and really friendly staff who were so patient with me whilst I waited for my mortgage to go through. Great value for money and easy to book a date for installation that suited me.,"Customer Service,General,Pricing,Processes/Journeys,Technician,UK Legacy",2023-06-01,10,10,10,10,10,10,0,1
