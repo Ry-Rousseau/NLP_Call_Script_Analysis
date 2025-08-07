@@ -1,0 +1,4 @@
+Approach,Number of Categories,Average Categories per Comment,Coverage (% of comments)
+BERTopic (Unsupervised),14,0.7491408934707904,56.3573883161512
+Enhanced Aspects (Rule-based),11,1.7061855670103092,65.12027491408935
+Combined,25,2.4553264604811,69.0721649484536
